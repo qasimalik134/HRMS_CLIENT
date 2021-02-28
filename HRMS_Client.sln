@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMS_SERVER", "HRMS_SERVER.csproj", "{38C09474-9573-4E4C-B409-22ADE78F339B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRMS_APP", "..\HRMS_APP\HRMS_APP.csproj", "{1A2CC5E0-1923-4A88-AF38-F67D7D790691}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{38C09474-9573-4E4C-B409-22ADE78F339B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C09474-9573-4E4C-B409-22ADE78F339B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38C09474-9573-4E4C-B409-22ADE78F339B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2CC5E0-1923-4A88-AF38-F67D7D790691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2CC5E0-1923-4A88-AF38-F67D7D790691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2CC5E0-1923-4A88-AF38-F67D7D790691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2CC5E0-1923-4A88-AF38-F67D7D790691}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
